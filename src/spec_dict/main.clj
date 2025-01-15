@@ -1,4 +1,4 @@
-(ns spec-dict
+(ns spec-dict.main
   (:require
    [clojure.set :as set]
    [clojure.spec.alpha :as s]
